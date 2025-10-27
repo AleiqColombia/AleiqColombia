@@ -1,52 +1,76 @@
-# 🇨🇴 ALEIQ Colombia
+<div align="center">
 
-**Asociación Latinoamericana de Estudiantes de Ingeniería Química – Delegación Colombia**  
-📍 *Ingeniería, ciencia y comunidad.*
-
----
-
-### 🧪 ¿Quiénes somos?
-
-Somos la delegación colombiana de la **ALEIQ (Asociación Latinoamericana de Estudiantes de Ingeniería Química)**, una organización que promueve el desarrollo técnico, académico y humano de los futuros ingenieros químicos en Latinoamérica.
-
-Desde Colombia impulsamos espacios de integración, proyectos colaborativos y la divulgación de conocimiento científico y tecnológico aplicado a la Ingeniería Química.
+# 🇨🇴 **ALEIQ Colombia**
+### *Asociación Latinoamericana de Estudiantes de Ingeniería Química – Delegación Colombia*
+🧪 Ingeniería · Ciencia · Comunidad
 
 ---
 
-### 🌐 Nuestro proyecto digital
+</div>
 
-Estamos construyendo el **sitio web oficial de ALEIQ Colombia**, un espacio donde podrás encontrar:
+### 🌍 ¿Quiénes somos?
 
-- 🔬 Artículos y noticias sobre ingeniería química.  
-- 🧠 Proyectos académicos y técnicos de nuestros miembros.  
-- 💡 Recursos educativos y herramientas útiles.  
-- 🤝 Información sobre nuestras actividades y delegaciones.  
-
-Este sitio se desarrollará y mantendrá desde **GitHub Pages**, con un enfoque **abierto, colaborativo y educativo**, reflejando nuestra pasión por la Ingeniería Química.
-
-> 🚧 *Actualmente el sitio se encuentra en construcción. Pronto podrás explorarlo desde aquí.*
+Somos la delegación colombiana de la **ALEIQ**, una organización que conecta, impulsa y representa a los estudiantes de Ingeniería Química en toda Latinoamérica.  
+Trabajamos para fortalecer la formación académica, técnica y humana de nuestros miembros, promoviendo la investigación, la innovación y el desarrollo sostenible.
 
 ---
 
-### 🎯 Nuestro propósito
+### 🌐 Proyecto Digital
 
-- Promover la **colaboración técnica** entre estudiantes y profesionales.  
-- Fomentar la **investigación y la innovación** en ingeniería química.  
-- Difundir el **conocimiento científico** de manera accesible.  
-- Representar a **Colombia** en espacios internacionales de la ALEIQ.
+💻 Actualmente estamos desarrollando el **sitio web oficial de ALEIQ Colombia**, un espacio abierto y colaborativo que servirá para:
+
+- 🧠 Difundir proyectos técnicos y académicos.  
+- 📰 Publicar artículos, noticias y eventos.  
+- 🔬 Compartir recursos educativos y herramientas digitales.  
+- 🤝 Conectar a estudiantes y profesionales de Ingeniería Química.  
+
+> 🚧 *Sitio web en construcción — próximamente disponible a través de GitHub Pages.*
 
 ---
 
-### 💻 GitHub en ALEIQ Colombia
+### 🎯 Nuestra misión
 
-Este perfil servirá como punto de encuentro para:
+> *“Conectar el conocimiento, la ciencia y las ideas para transformar el futuro de la Ingeniería Química en Colombia y Latinoamérica.”*
 
-- Publicar proyectos académicos y técnicos.  
-- Compartir herramientas y simulaciones.  
-- Documentar iniciativas de estudiantes y grupos locales.  
+- Promover la colaboración entre delegaciones.  
+- Fortalecer la investigación y la divulgación científica.  
+- Fomentar el liderazgo estudiantil y la innovación técnica.  
+- Representar a Colombia en el ámbito latinoamericano de la ALEIQ.
 
-Si eres estudiante o profesional de Ingeniería Química y quieres contribuir, ¡mantente atento! 👀  
-Pronto abriremos espacios de colaboración en nuestros repositorios.
+---
+
+### 👥 Delegados Nacionales (2025 – 2026)
+
+| Nombre | Cargo | Universidad |
+|:----------------------|:------------------|:-----------------------------|
+| **Juan David Parra Cantor** | Delegado Nacional 🇨🇴 | Est. Ingeniería Química – **UPB Medellín** |
+| **Valeria Vegas Torres** | Delegada Nacional 🇨🇴 | Est. Biotecnología – **EIA** |
+
+<div align="center">
+
+📸 **Delegados Nacionales – ALEIQ Colombia 2025–2026**
+
+<img src="img/delegacion.jpg" alt="Delegados Nacionales ALEIQ Colombia 2025–2026" width="70%" style="border-radius:15px; margin-top:10px;">
+
+</div>
+
+---
+
+### 🧩 Qué encontrarás aquí
+
+En este perfil de GitHub compartiremos:
+
+- 📁 Repositorios de proyectos técnicos y académicos.  
+- 🧮 Modelos, simulaciones y herramientas digitales.  
+- 📚 Material de apoyo y documentación colaborativa.  
+- 🧑‍🔬 Iniciativas de estudiantes de Ingeniería Química de todo el país.  
+
+---
+
+### 🤝 ¿Quieres colaborar?
+
+Si eres estudiante o profesional del área y deseas contribuir con proyectos, artículos o recursos, ¡nos encantará contar contigo!  
+Estaremos abriendo espacios de colaboración y contribución muy pronto.
 
 ---
 
@@ -54,10 +78,18 @@ Pronto abriremos espacios de colaboración en nuestros repositorios.
 
 📧 **aleiq.colombia@gmail.com**  
 📸 [Instagram: @aleiq.colombia](https://instagram.com/aleiq.colombia)  
+💼 [LinkedIn: ALEIQ Colombia](#) *(próximamente)*  
 
 ---
 
-### 🧠 “La Ingeniería Química no solo transforma la materia, sino también las ideas.”
+<div align="center">
 
-Con cariño y compromiso,  
-**Delegación ALEIQ Colombia**
+### 🧠 “La Ingeniería Química no solo transforma la materia, sino también las ideas.”  
+**— Delegación ALEIQ Colombia**
+
+---
+
+⭐ *Hecho con orgullo por estudiantes colombianos de Ingeniería Química.*  
+💻 *Sitio oficial en desarrollo — GitHub Pages 2025.*
+
+</div>
