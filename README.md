@@ -1,80 +1,64 @@
-# 👋 ¡Hola! Soy Juan David Parra
+# 🇨🇴 ALEIQ Colombia
 
-🎓 Estudiante de Ingeniería Química en la Universidad Pontificia Bolivariana (UPB) 
-
-🧪 Apasionado por la biotecnología, la programación y el diseño sostenible  
-
-💻 Full-time curioso — mezclo ciencia, datos, diseño y código 
-
-🌱 Ganador Concurso de Carteles en COLAEIQ 2025 (Honduras) con el proyecto "Producción de ácido acético y celulosa bacteriana mediante la fermentación espontánea del jugo de caña de azúcar"
-
-💻 Trabajando en modelos de optimización multi-objetivo en Python 
+**Asociación Latinoamericana de Estudiantes de Ingeniería Química – Delegación Colombia**  
+📍 *Ingeniería, ciencia y comunidad.*
 
 ---
 
+### 🧪 ¿Quiénes somos?
 
-<h3>🛠️ Tecnologías que uso</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Jdparra2004/Jdparra2004/main/icons/premiere.jpeg" alt="Premiere Pro" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Jdparra2004/Jdparra2004/main/icons/logo_octave.png" alt="Premiere Pro" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Jdparra2004/Jdparra2004/main/icons/scilab.jpeg" alt="Scilab" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
+Somos la delegación colombiana de la **ALEIQ (Asociación Latinoamericana de Estudiantes de Ingeniería Química)**, una organización que promueve el desarrollo técnico, académico y humano de los futuros ingenieros químicos en Latinoamérica.
 
-
+Desde Colombia impulsamos espacios de integración, proyectos colaborativos y la divulgación de conocimiento científico y tecnológico aplicado a la Ingeniería Química.
 
 ---
 
-## 🚀 Proyectos Actuales
+### 🌐 Nuestro proyecto digital
 
-### 🧮 Optimización Multi-Objetivo con Python
-**Aplicación de algoritmos evolutivos**  
-Desarrollo de un modelo de optimización para resolver problemas complejos en ingeniería usando `Scipy and Pyomo` y visualización de Pareto Fronts.
-Desarrollado en la Universidad Pontificia Bolivariana - Semillero Automática y Diseño A+D y Semillero Termofluidos y Conversión de Energía
----
+Estamos construyendo el **sitio web oficial de ALEIQ Colombia**, un espacio donde podrás encontrar:
 
-## 🚀 Proyectos Finalizados
+- 🔬 Artículos y noticias sobre ingeniería química.  
+- 🧠 Proyectos académicos y técnicos de nuestros miembros.  
+- 💡 Recursos educativos y herramientas útiles.  
+- 🤝 Información sobre nuestras actividades y delegaciones.  
 
-### ♻️ Proyecto de Biotecnología de producción de ácido acético y celulosa bacteriana para presentación COLAEIQ 2025 (Honduras)
-**Proyecto académico para presentación internacional (Proyecto Ganador Concurso de Carteles)**  
-Diseño de proceso para la obtención de Celulosa bacteriana y ácido acético, para poder comparar con los ácidos comerciales.
-Nombre Proyecto: Producción de ácido acético y celulosa bacteriana mediante la fermentación espontánea del jugo de caña de azúcar.
+Este sitio se desarrollará y mantendrá desde **GitHub Pages**, con un enfoque **abierto, colaborativo y educativo**, reflejando nuestra pasión por la Ingeniería Química.
 
-### ♻️ Proyecto de Biotecnología en una compsotera para presentación COLAEIQ 2025 (Honduras)
-**Proyecto académico para presentación internacional**  
-Diseño de una compostera modular y optimizada, enfocada en sostenibilidad, educación ambiental y gestión de residuos.
-Nombre Proyecto:  Revalorización de residuos de Poda de una universidad para la producción de fertilizante hacia una economía circular.
+> 🚧 *Actualmente el sitio se encuentra en construcción. Pronto podrás explorarlo desde aquí.*
 
 ---
 
-## 🔤 Idiomas
+### 🎯 Nuestro propósito
 
-- 🇪🇸 Español (nativo)  
-- 🇬🇧 Inglés (B2+)
-
----
-
-## 📫 Contacto
-
-- 📧 juan.parrac@outlook.es
-- 🐙 [GitHub](https://github.com/Jdparra2004)  
-- 🌐 [LinkedIn](https://linkedin.com/in/juan-david-parra-cantor-859335367)
-- 📸 [Instagram](https://instagram.com/jdparra20/)
+- Promover la **colaboración técnica** entre estudiantes y profesionales.  
+- Fomentar la **investigación y la innovación** en ingeniería química.  
+- Difundir el **conocimiento científico** de manera accesible.  
+- Representar a **Colombia** en espacios internacionales de la ALEIQ.
 
 ---
 
-> *"El futuro pertenece a quienes creen en la belleza de sus sueños." – Eleanor Roosevelt*
+### 💻 GitHub en ALEIQ Colombia
+
+Este perfil servirá como punto de encuentro para:
+
+- Publicar proyectos académicos y técnicos.  
+- Compartir herramientas y simulaciones.  
+- Documentar iniciativas de estudiantes y grupos locales.  
+
+Si eres estudiante o profesional de Ingeniería Química y quieres contribuir, ¡mantente atento! 👀  
+Pronto abriremos espacios de colaboración en nuestros repositorios.
 
 ---
 
-## 📊 Estadísticas de GitHub
+### 📬 Contáctanos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jdparra2004&show_icons=true&theme=radical)
+📧 **aleiq.colombia@gmail.com**  
+📸 [Instagram: @aleiq.colombia](https://instagram.com/aleiq.colombia)  
+🔗 [LinkedIn: ALEIQ Colombia](#)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdparra2004&layout=compact&theme=radical)
+---
+
+### 🧠 “La Ingeniería Química no solo transforma la materia, sino también las ideas.”
+
+Con cariño y compromiso,  
+**Delegación ALEIQ Colombia**
