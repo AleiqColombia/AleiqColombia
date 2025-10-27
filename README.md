@@ -54,7 +54,6 @@ Pronto abriremos espacios de colaboración en nuestros repositorios.
 
 📧 **aleiq.colombia@gmail.com**  
 📸 [Instagram: @aleiq.colombia](https://instagram.com/aleiq.colombia)  
-🔗 [LinkedIn: ALEIQ Colombia](#)
 
 ---
 
